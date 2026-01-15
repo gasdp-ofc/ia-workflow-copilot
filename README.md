@@ -1,3 +1,5 @@
+![CI](https://github.com/gasdp-ofc/ia-workflow-copilot/actions/workflows/ci.yml/badge.svg)
+
 # IA na prática: Acelerando o desenvolvimento e garantindo a qualidade com um fluxo de trabalho automatizado por IA
 
 ## 📌 Contexto do Problema
